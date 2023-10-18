@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GPS Maps</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="dev_name">From \n Harsh Kumar</string>
+</resources>
