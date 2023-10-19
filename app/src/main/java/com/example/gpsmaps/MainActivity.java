@@ -23,7 +23,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         ActionBar actionBar = getSupportActionBar();
-        actionBar.setTitle("Chat Matrix");
+        actionBar.setTitle("Google Maps");
         ColorDrawable colorDrawable = new ColorDrawable(Color.parseColor("#344955"));
         actionBar.setBackgroundDrawable(colorDrawable);
 
